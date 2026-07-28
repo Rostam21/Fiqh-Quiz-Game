@@ -15,4 +15,5 @@ Software: VSCodium
 C++ Standard: C++17
 
 Compiler: g++
+
 Primarily, functions, arrays, loops, and conditionals(if-else) were used. 
